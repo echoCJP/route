@@ -1,0 +1,20 @@
+{
+    "name": "echo/route",
+    "description": "路由",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "echo",
+            "email": "897960700@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "echo\\": "src/"
+        }
+    }
+
+}
