@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'wheel\\' => array($baseDir . '/src'),
+    'echo\\wheel\\' => array($baseDir . '/src'),
 );
