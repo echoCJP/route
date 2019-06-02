@@ -1,11 +1,11 @@
 {
-    "name": "wheel/route",
+    "name": "echo/route",
     "description": "路由",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "wheel",
+            "name": "echo",
             "email": "897960700@qq.com"
         }
     ],
