@@ -1,7 +1,7 @@
 <?php
 
 namespace Echo;
-use Illuminate\Http\Request;
+// use Illuminate\Http\Request;
 
 /**
  *
