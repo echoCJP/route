@@ -1,6 +1,6 @@
 <?php
 
-namespace Echo;
+namespace Wheel;
 // use Illuminate\Http\Request;
 
 /**

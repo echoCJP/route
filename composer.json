@@ -1,11 +1,11 @@
 {
-    "name": "echo/route",
+    "name": "wheel/route",
     "description": "路由",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "echo",
+            "name": "wheel",
             "email": "897960700@qq.com"
         }
     ],
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "echo\\": "src/"
+            "wheel\\": "src/"
         }
     }
 
